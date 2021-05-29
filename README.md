@@ -15,7 +15,8 @@
 ![Screenshots](https://raw.githubusercontent.com/mjuned47/GHActions_SSH/master/screenshots/add_secrets.jpg)
 
 6) after adding secrets , go to actions , select workflow (ubuntu-ssh) and run it
-![Screenshots](https://raw.githubusercontent.com/mjuned47/GHActions_SSH/master/screenshots/ngrok_token.jpg)
+![Screenshots](https://raw.githubusercontent.com/mjuned47/GHActions_SSH/master/screenshots/select_ubuntu.jpg)
+![Screenshots](https://raw.githubusercontent.com/mjuned47/GHActions_SSH/master/screenshots/run_workflow.jpg)
 
 7) wait for some seconds ,you will see message like
    "ssh runner@x.tcp.ngrok.io -p xxxxx"

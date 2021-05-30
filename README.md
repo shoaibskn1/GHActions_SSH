@@ -27,7 +27,7 @@
 
 9) Paste and execute ! You will be asked to enter password which you have set in secrets
 
-Info About Secrets :
+# Info About Secrets :
 1) GITHUBMAIL = github gmail
 2) GITHUBNAME = github username
 3) NGROK_TOKEN = authentication token which you got from ngrok.com

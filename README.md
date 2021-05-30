@@ -25,5 +25,13 @@
 8) copy this and open termux/terminal and install openssh
     For termux : apt update && apt install openssh
 
-9) Paste it !
- 
+9) Paste and execute ! You will be asked to enter password which you have set in secrets
+
+Info About Secrets :
+1) GITHUBMAIL = github gmail
+2) GITHUBNAME = github username
+3) NGROK_TOKEN = authentication token which you got from ngrok.com
+4) SSH_PASSWORD = ssh password and it will be asked during login
+5) TELEGRAM_BOT_TOKEN = telegram bot token id which you might got after creating bot
+6) TELGRAM_CHAT_ID = telegram group chat id ( create a group , add your created bot, add IDBot(telegram official bot) , now message /getid in that group 
+                                               you will get group id)

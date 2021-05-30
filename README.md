@@ -20,8 +20,10 @@
 
 7) wait for some seconds ,you will see message like
    "ssh runner@x.tcp.ngrok.io -p xxxxx"
+![Screenshots](https://raw.githubusercontent.com/mjuned47/GHActions_SSH/master/screenshots/msg.jpg)
 
 8) copy this and open termux/terminal and install openssh
     For termux : apt update && apt install openssh
+
 9) Paste it !
  

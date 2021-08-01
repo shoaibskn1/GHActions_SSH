@@ -38,7 +38,7 @@ jobs:
           EOF
       - name: SSH connection to Actions
         continue-on-error: true
-        timeout-minutes: 340
+        timeout-minutes: 600
         uses: P3TERX/ssh2actions@main
         with:
           mode: ngrok
